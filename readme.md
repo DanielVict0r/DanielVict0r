@@ -1,6 +1,7 @@
 ### Olá 👍
 ## Meu nome é Daniel Victor 👀
 Estou cursando o curso de ánalise e desenvolvimento de sistemas 🖥️
+
 <img aling="center"  height="300" width="400" src="https://media0.giphy.com/media/fwzWJPb0fgZ5Vhfi2o/giphy.gif?cid=ecf05e47igd36tjzrknoyvg4jioznzmp4gdhbmebt92ju48q&rid=giphy.gif&ct=g" style="max-width:100%;">
 
 ## Meus contatos:
