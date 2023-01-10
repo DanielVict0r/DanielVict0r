@@ -1,5 +1,5 @@
 ### Olá 👍
-## Meu nome é Daniel Victor 👀
+## Meu nome é Daniel Victor e meu foco é ser desenvolverdor full-stack com foco em Java. 👀
  Curso técnico de desenvolvimento de sistemas (Finalizado) 🖥️.  
  
  Curso Superior de Ánalise e desenvolvimento de Sistemas (Em andamento).
