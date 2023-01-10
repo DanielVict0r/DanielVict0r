@@ -1,6 +1,7 @@
 ### Olá 👍
 ## Meu nome é Daniel Victor 👀
- Curso técnico de desenvolvimento de sistemas (Finalizado) 🖥️
+ Curso técnico de desenvolvimento de sistemas (Finalizado) 🖥️.  
+ 
  Curso Superior de Ánalise e desenvolvimento de Sistemas (Em andamento).
 
 ## Meus contatos:
